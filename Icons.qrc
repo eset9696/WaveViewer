@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ICO">
+        <file>Icons/about.ico</file>
+        <file>Icons/wave.ico</file>
+    </qresource>
+</RCC>
